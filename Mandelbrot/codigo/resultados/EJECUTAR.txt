@@ -1,0 +1,15 @@
+empieza
+empieza
+empieza
+empieza
+empieza
+termina
+proceso: 0 El proceso tomo: 2619.56 segundos para ejecutarse.
+termina
+proceso: 4 El proceso tomo: 2620.15 segundos para ejecutarse.
+termina
+proceso: 1 El proceso tomo: 2620.98 segundos para ejecutarse.
+termina
+proceso: 2 El proceso tomo: 2622.01 segundos para ejecutarse.
+termina
+proceso: 3 El proceso tomo: 2623.21 segundos para ejecutarse.
